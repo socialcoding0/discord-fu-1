@@ -65,6 +65,9 @@ body {
     color: var(--dark-blue);
 }
 
+.input-form button {
+    font-size:1rem;
+}
 
 
 .portfolio,
